@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * Implements hook_migrate_api().
+ */
+function retail_outlet_migrate_migrate_api() {
+  return array('api' => 2);
+}

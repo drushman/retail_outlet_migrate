@@ -1,0 +1,13 @@
+name = Migrate retail outlet
+description = Migrate content retail outlet from xls data.
+core = 7.x
+package = "Viet Coop"
+files[] = retail_outlet_migrate.inc
+files[] = retail_outlet_migrate.analytics.inc
+files[] = retail_outlet_migrate.image.inc
+
+; Information added by drupal.org packaging script on 2012-04-24
+version = "7.x-1.0"
+core = "7.x"
+
+
